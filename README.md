@@ -1,2 +1,2 @@
 # Parallel_Programing
-The following programs have been done by use of Message Passing Interface (MPI)
+The following programs have been done by use of Message Passing Interface (MPI) and Cuda
