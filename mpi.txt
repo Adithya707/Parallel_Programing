@@ -1,0 +1,7 @@
+Compilation
+
+mpicc mpi.c -o mpi
+
+Running
+
+mpirun -np 4 ./mpi
